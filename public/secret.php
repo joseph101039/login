@@ -2,19 +2,19 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Lab - index</title>
+<title>Lag - Member Page</title>
 </head>
 <body>
 
 <table width="300" border="0" align="center" cellpadding="5" cellspacing="0" bgcolor="#F2F2F2">
   <tr>
-    <td align="center" bgcolor="#CCCCCC"><font color="#FFFFFF">會員系統 - 首頁</font></td>
+    <td align="center" bgcolor="#CCCCCC"><font color="#FFFFFF">會員系統 － 會員專用</font></td>
   </tr>
   <tr>
-    <td align="center" valign="baseline"><a href="login.php">登入</a> | <a href="secret.php">會員專用頁</a></td>
+    <td align="center" valign="baseline">This page for member only.</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#CCCCCC">&nbsp;</td>
+    <td align="center" bgcolor="#CCCCCC"><a href="index.php">回首頁</a></td>
   </tr>
 </table>
 
